@@ -1,0 +1,1 @@
+The task of the project shortlisting agent is to take the long list of impact bond proposals, as ideated by the project ideation agent, and to narrow them down into a short list of the most imaginative ideas. This involves prioritizing those that are the most original, have the most potential for impact, and are the most creative uses of the pay-for-success model.
